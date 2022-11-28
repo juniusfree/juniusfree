@@ -1,8 +1,8 @@
 # @juniusfree
 
-Frontend Web Developer, Self-taught
+Frontend Web Developer
 
-## 🔍 Let my work speaks for itself 
+## 🔍 Contributions
 
 ### 1. Wonder 🔗 [Check my contributions](https://github.com/wondrous-dev/wondrous-frontend/pulls?q=is%3Apr+author%3Ajuniusfree)
 

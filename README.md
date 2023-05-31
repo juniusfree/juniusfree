@@ -18,6 +18,8 @@ Frontend Web Developer
 
 ### Treclone: https://github.com/juniusfree/treclone
 
+Tech stack: React 18, Next.js 13, Tailwind CSS, TypeScript
+
 https://github.com/juniusfree/juniusfree/assets/8164667/71bf3f70-a3e9-47f5-86fb-c430b4148e4a
 
 

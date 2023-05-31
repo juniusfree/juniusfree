@@ -4,19 +4,25 @@ Frontend Web Developer
 
 ## Open Source Contributions
 
-### 1. Wonder 🔗 [Check my contributions](https://github.com/wondrous-dev/wondrous-frontend/pulls?q=is%3Apr+author%3Ajuniusfree)
+### 1. Wonder
+
+[Check my contributions](https://github.com/wondrous-dev/wondrous-frontend/pulls?q=is%3Apr+author%3Ajuniusfree)
 
 - Worked on frontend since the early stages of development
 - Tech stack: React/Nextjs, Graphql/Apollo, Styled Components, Material UI.
 
-### 2. Athens Research 🔗 [Check my contributions](https://github.com/athensresearch/athens/pulls?q=is%3Apr+author%3Ajuniusfree+)
+### 2. Athens Research
+
+[Check my contributions](https://github.com/athensresearch/athens/pulls?q=is%3Apr+author%3Ajuniusfree+)
 
 - Most important contribution: [search feature performance improvement](https://twitter.com/AthensResearch/status/1396215045793718272)
 - Tech stack: Clojure, Clojurescript, Datascript, re-frame. 
 
 ## Personal Projects
 
-### Treclone: https://github.com/juniusfree/treclone
+### Treclone
+
+https://github.com/juniusfree/treclone
 
 Tech stack: React 18, Next.js 13, Tailwind CSS, TypeScript
 

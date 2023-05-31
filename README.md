@@ -20,13 +20,25 @@ Frontend Web Developer
 
 ## Personal Projects
 
-### Treclone
+### 1. Treclone
+https://treclone.vercel.app/
 
 https://github.com/juniusfree/treclone
 
-Tech stack: React 18, Next.js 13, Tailwind CSS, TypeScript
+Tech stack: React, Next.js, Tailwind CSS, TypeScript
 
 https://github.com/juniusfree/juniusfree/assets/8164667/71bf3f70-a3e9-47f5-86fb-c430b4148e4a
+
+### 2. Online Store
+
+https://juniusfree-online-shopping.vercel.app/
+
+https://github.com/juniusfree/online-shopping
+
+Tech stack: React, TypeScript, TailwindCSS
+
+
+https://user-images.githubusercontent.com/8164667/232983902-128ef1d1-ae49-4bac-ac82-d4adf2016053.mp4
 
 
 ## Let's chat

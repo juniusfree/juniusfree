@@ -2,7 +2,7 @@
 
 Frontend Web Developer
 
-## Contributions
+## Open Source Contributions
 
 ### 1. Wonder 🔗 [Check my contributions](https://github.com/wondrous-dev/wondrous-frontend/pulls?q=is%3Apr+author%3Ajuniusfree)
 

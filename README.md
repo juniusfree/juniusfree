@@ -20,7 +20,18 @@ Frontend Web Developer
 
 ## Personal Projects
 
-### 1. Treclone
+### 1. SongBook
+
+https://juniusfree-song-book.vercel.app/
+
+https://github.com/juniusfree/song-book
+
+Tech stack: React, Next.js, Tailwind CSS, TypeScript, Langchain JS
+APIs: Open Library, Spotify
+
+https://user-images.githubusercontent.com/8164667/245300746-13d63479-6f39-4d12-86ef-4b2b48a9afc5.mp4
+
+### 2. Treclone
 https://treclone.vercel.app/
 
 https://github.com/juniusfree/treclone
@@ -29,7 +40,7 @@ Tech stack: React, Next.js, Tailwind CSS, TypeScript
 
 https://github.com/juniusfree/juniusfree/assets/8164667/71bf3f70-a3e9-47f5-86fb-c430b4148e4a
 
-### 2. Online Store
+### 3. Online Store
 
 https://juniusfree-online-shopping.vercel.app/
 

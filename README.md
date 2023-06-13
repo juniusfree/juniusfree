@@ -11,7 +11,7 @@ Frontend Web Developer
 - Worked on frontend since the early stages of development
 - Tech stack: React/Nextjs, Graphql/Apollo, Styled Components, Material UI.
 
-### 2. Athens Research
+### 2. Athens Research (YC W21)
 
 [Check my contributions](https://github.com/athensresearch/athens/pulls?q=is%3Apr+author%3Ajuniusfree+)
 

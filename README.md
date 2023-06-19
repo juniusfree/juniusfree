@@ -1,7 +1,3 @@
-# @juniusfree
-
-Frontend Web Developer
-
 ## Open Source Contributions
 
 ### 1. Wonder
